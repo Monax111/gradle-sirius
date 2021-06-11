@@ -1,9 +1,9 @@
 .idea
-*/.gradle
+*/.gradle/*
 *.iml
 /*/out
 /out
-/*/build
+*/build/*
 /build
 *.jar
 */target/*
