@@ -1,0 +1,10 @@
+.idea
+../projectC/.gradle
+*.iml
+/*/out
+/out
+/*/build
+/build
+*.jar
+*/target/*
+
