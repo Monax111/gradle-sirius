@@ -1,11 +1,12 @@
 package com.tinkoff.sirius.financial.tracker.logic;
 
 public class SomeLogic {
+
     public String isGood(Boolean age, Boolean size, Boolean hot) {
         if (age) {
-            if(size && hot) {
+            if (size && hot) {
                 return "Good";
-            }else{
+            } else {
                 return "Normal";
             }
         } else {
@@ -13,4 +14,3 @@ public class SomeLogic {
         }
     }
 }
-add
